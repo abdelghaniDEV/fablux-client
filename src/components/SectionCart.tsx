@@ -7,7 +7,6 @@ export default function SectionCart({
   title,
   description,
   images,
-  id,
 }: SectionType) {
   return (
     <div className="flex flex-col gap-5 items-center ">

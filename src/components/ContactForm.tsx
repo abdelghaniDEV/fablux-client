@@ -1,17 +1,15 @@
 "use client";
-import React, { FormEventHandler, useState } from "react";
+import React, {useState } from "react";
 import { Input } from "./ui/input";
 import {
-  Dialog,
   DialogContent,
   DialogDescription,
   DialogHeader,
   DialogTitle,
-  DialogTrigger,
 } from "@/components/ui/dialog";
 import { Textarea } from "./ui/textarea";
 import { Button } from "./ui/button";
-import { Axe, Send } from "lucide-react";
+import { Send } from "lucide-react";
 import axios from "axios";
 
 interface MessageType {
@@ -45,7 +43,7 @@ export default function ContactForm() {
 
   const checkData = () => {
     let isValid = true;
-    let newErrors: MessageType = { ...Errors };
+    const newErrors: MessageType = { ...Errors };
 
     // التحقق من الاسم
     if (!message.name.trim()) {

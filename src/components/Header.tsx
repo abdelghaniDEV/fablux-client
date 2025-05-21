@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { AlignJustify, Globe } from "lucide-react";
 // import Navbar from "./Navbar";
 import Link from "next/link";
@@ -9,10 +9,6 @@ import { Button } from "./ui/button";
 import Navbar from "./Navbar";
 import {
   Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
 import ContactForm from "./ContactForm";

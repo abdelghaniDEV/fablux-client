@@ -75,7 +75,7 @@ export default function ProjectDetails() {
         </div>
       </div>
       <div className="flex flex-col gap-4 items-center container">
-        {project?.sections.map((section: SectionType, index: number) => {
+        {project?.sections.map((section: SectionType) => {
           return (
             <SectionCart
               key={section.id}

@@ -6,14 +6,12 @@ import BoxService from "./BoxService";
 import {
   LayoutGrid,
   Box,
-  BriefcaseBusiness,
   Building2,
   Camera,
-  ChevronRight,
   File,
   Medal,
   PanelTop, 
-  PenTool,
+
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 

@@ -1,5 +1,4 @@
 import React from "react";
-import { Card } from "./ui/card";
 import { Link } from "@/i18n/navigation";
 import Image from "next/image";
 
