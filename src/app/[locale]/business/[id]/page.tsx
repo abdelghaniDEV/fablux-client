@@ -42,7 +42,7 @@ export default function ProjectDetails() {
     fetchProject();
   }, [params.id]);
   return (
-    <div className="relative overfolw-hidden">
+    <div className="relative overflow-hidden">
       <div>
         <h1 className="text-[20px] md:text-[28px] font-[700] text-center leading-[30px] bg-gradient-to-r from-[#19e7f7] to-[#067b84] bg-clip-text text-transparent">
           {project?.type}
