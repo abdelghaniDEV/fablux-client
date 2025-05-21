@@ -1,0 +1,118 @@
+{
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "services": "Our Services",
+      "business": "Business record",
+      "contact": "Contact Us"
+    },
+    "footer": {
+      "description": "Growing up business for good future brand",
+      "services": {
+        "title": "Our Products",
+        "app": "Website and application programming",
+        "3d": "Visual identity design",
+        "marketing": "Social media account management",
+        "video": "Photography and video production",
+        "business": "Business development"
+      },
+      "pages": {
+        "title": "pages",
+        "home": "Home",
+        "about": "About",
+        "services": "Our Services",
+        "business": "Business record",
+        "vision": "Our vision"
+      },
+      "contact": {
+        "title": "Contact Us"
+      }
+    },
+    "hero": {
+      "title": "Growing up business for good future brand",
+      "subtitle": "Growing up business for good future brand",
+      "text": "With Fablox Group, your path to success is 100% guaranteed because you are dealing with a group of specialists and experts in the world of software.",
+      "title1" : "We have a distinguished group in various businesses." , 
+      "button": "Take A Look"
+    },
+    "about": {
+      "about": "About Us",
+      "title": "Experts in digital transformation",
+      "text": "At fablux group we excel in delivering comprehensive digital solutions that turn ideas into reality.\n\nAs a leading company in technology and digital services, we offer a wide range of high-quality services, including:\n\nWebsite Development\nCustom, responsive, and user-friendly websites tailored to your business needs.\n\nE-commerce Platforms\nPowerful online stores designed to increase your sales and provide a seamless shopping experience.\n\nMobile Applications\nAdvanced iOS and Android apps that engage users and enhance your brand.\n\nDigital Marketing\nComprehensive strategies, including SEO, social media marketing, paid advertising, and campaign management, to achieve the best results.\n\nPhotography and Video Production\nProfessional photography and video content that highlights your brand and tells your story creatively and effectively.\n\nOur team of developers, designers, marketers, and content creators works with passion and creativity to bring your vision to life.\n\nWith a client-focused approach, we collaborate with you step by step to understand your goals and deliver tailored solutions that set you apart in the digital world.\n\nJoin us to build a strong digital presence and achieve remarkable success. Let’s create the future together!"
+    },
+    "service": {
+      "title": "Our Services",
+      "description": "Fablux Group provides you with a range of services that you cannot find anywhere else. We combine a range of professional features in one place.",
+
+      "app": {
+        "title": "Application Programming",
+        "description": "Fablux Group provides innovative solutions in programming applications that work on (iOS / Android) systems."
+      },
+      "web": {
+        "title": "Web Development",
+        "description": "We build your website from scratch professionally by a group of experts."
+      },
+      "brand": {
+        "title": "Branding design",
+        "description": "We provide a professional logo design service that expresses your brand identity and reflects its message and value."
+      },
+      "photo": {
+        "title": "Professional photography",
+        "description": "We shoot cinematic videos and photograph your events and products with the latest technologies to become the trend in your country"
+      },
+      "3d": {
+        "title": "3D video production",
+        "description": "3D video production and computer graphics service provider (CGI) to showcase ideas and projects in an innovative way"
+      },
+      "business": {
+        "title": "Business record",
+        "description": "Business development for a new future brand."
+      },
+      "company": {
+        "title": "Register a British company",
+        "description": "Fablux Group offers to register a British company, open a Stripe account, and link the payment gateway to an online store or application."
+      },
+      "marketing": {
+        "title": "Social media account management",
+        "description": "We manage your accounts with great professionalism and provide everything you need to reach the pinnacle of success."
+      },
+
+      "more": "Learn more"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "subtitle": "Users from all over the world",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa."
+    },
+    "portfolio" : {
+      "title": "Welcome to the gallery of Fablux Group's works",
+      "description": "Be aware that you are now viewing a group of projects designed by experts and professionals at the highest level. We hope you like them."
+    },
+    "contact" : {
+      "title" : "Welcome to Fablox Group",
+      "subtitle" : "Leave your message and we will contact you as soon as possible",
+        "email" : {
+          "label" : "E-mail",
+          "placeholder" : "Entre your Email",
+          "error" : "Please enter a valid email address"
+        },
+        "name" : {
+          "label" : "Your Company Name",
+          "placeholder" : "Entre your Company Name",
+          "error" : "Please enter your company name"
+        },
+        "phone" : {
+          "label" : "Contact phone number",
+          "placeholder" : "Entre your Phone Number",
+          "error" : "Please enter a valid phone number"
+        },
+        "message" : {
+          "label" : "Message topic",
+          "placeholder" : "Entre your Message",
+          "error" : "Please enter your message topic"
+        },
+        "submit" : "Send"
+      
+    }
+  }
+  

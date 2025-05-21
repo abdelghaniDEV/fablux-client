@@ -1,0 +1,119 @@
+{
+    "header": {
+      "home": "الرئسية",
+      "about": "من نحن",
+      "services": "خدماتنا",
+      "business": "معرض الاعمال",
+      "contact" : "تواصل معنا"
+    },
+    "footer": {
+      "description": "مجموعة فابلوكس خطواتك الأولى نحو النجاح والتقدم",
+      "services": {
+        "title": "خدماتنا",
+        "app": "برمجة المواقع والتطبيقات",
+        "3d": "تصميم الهوية البصرية",
+        "marketing": "إدارة حسابات وسائل التواصل الاجتماعي",
+        "video": "التصوير الفوتوغرافي وإنتاج الفيديو",
+        "business": "تطوير الأعمال"
+      },
+      "pages": {
+        "title": "الصفحات",
+        "home": "Home",
+        "about": "About",
+        "services": "Our Services",
+        "business": "Business record",
+        "vision": "رؤيتنا"
+      },
+      "contact": {
+        "title": "التواصل"
+      }
+    },
+    "hero": {
+      "subtitle": "Fablux Group",
+      "title": "تنمية الأعمال التجارية من أجل مستقبل جيد للعلامة التجارية",
+      "text": "مع مجموعة فابلوكس طريقك للنجاح مضمون 100% لأنك تتعامل مع مجموعة من المتخصصين والخبراء في عالم البرمجيات.",
+      "title1" : "لدينا مجموعة متميزة في مختلف الأعمال." , 
+      "button": "القاء نظرة"
+    },
+    "about" : {
+      "about" : "نبذة عنا",
+      "title": "خبراء في التحول الرقمي",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute mollit anim id est laborum magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute mollit anim id est laborum.."
+    },
+    "service" : {
+      "title" : "خدماتنا",
+      "description" : " نحن في Fablux Group نقدم لك مجموعة من الخدمات التي لا يمكنك العثور عليها في أي مكان آخر. نحن نجمع بين مجموعة من الميزات المهنية في مكان واحد.",
+      
+          "app" : {
+              "title" : "برمجة التطبيقات",
+              "description" : "تقدم مجموعة فابلوكس حلولاً مبتكرة في برمجة التطبيقات التي تعمل على أنظمة (iOS / Android).."
+          },
+          "web" : {
+              "title" : "برمجة مواقع الويب",
+              "description" : "نقوم ببناء موقعك من الصفر باحترافية من قبل مجموعة من الخبراء."
+          },
+          "brand" : {
+              "title" : "تصميم العلامة التجارية",
+              "description" : "نحن نقدم خدمة تصميم شعار احترافي يعبر عن هوية علامتك التجارية ويعكس رسالتها وقيمتها.."
+          },
+          "photo" : {
+              "title" : "تصوير فوتوغرافي احترافي",
+              "description" : "نقوم بتصوير فيديوهات سينمائية وتصوير فعالياتكم ومنتجاتكم بأحدث التقنيات لتصبحوا الاتجاه السائد في بلدكم"
+          },
+          "3d" : {
+              "title" : "إنتاج الفيديو ثلاثي الأبعاد",
+              "description" : "مزود خدمة إنتاج الفيديو ثلاثي الأبعاد والرسومات الحاسوبية (CGL) لعرض الأفكار والمشاريع بطريقة مبتكرة"
+          },
+          "business" : {
+              "title" : "تطوير الأعمال",
+              "description" : "تطوير الأعمال لعلامة تجارية مستقبلية جديدة."
+          },
+          "company" : {
+              "title" : "تسجيل شركة بريطانية",
+              "description" : "تقدم مجموعة Fablux عرضًا لتسجيل شركة بريطانية، وفتح حساب Stripe، وربط بوابة الدفع بمتجر أو تطبيق عبر الإنترنت.."
+          },
+          "marketing" : {
+              "title" : "إدارة حسابات وسائل التواصل الاجتماعي",
+              "description" : "نحن ندير حساباتك باحترافية كبيرة ونوفر لك كل ما تحتاجه للوصول إلى قمة النجاح.."
+          }
+      ,
+      "more" : "معرفة المزيد"
+    },
+    "vision" : {
+      "title" : "رؤيتنا",
+      "subtitle" : "المستخدمون من جميع أنحاء العالم",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa."
+    },
+    "portfolio" : {
+      "title": "مرحباً بكم في معرض أعمال مجموعة فابلوكس",
+      "description": "انتبه أنك تشاهد الآن مجموعة من المشاريع التي صممها خبراء ومحترفون على أعلى مستوى، نأمل أن تنال إعجابك.."
+    },
+    "contact" : {
+      "title" : "مرحباً بكم في مجموعة فابلوكس",
+      "subtitle" : "اترك رسالتك وسوف نتصل بك في أقرب وقت ممكن.",
+     
+        "email" : {
+          "label" : "البريد",
+          "placeholder" : "ادخل البريد",
+          "error" : "يرجى إدخال عنوان بريد إلكتروني صالح"
+        },
+        "name" : {
+          "label" : "اسم شركتك",
+          "placeholder" : "أدخل اسم شركتك",
+          "error" : "الرجاء إدخال اسم شركتك"
+        },
+        "phone" : {
+          "label" : "رقم الهاتف للتواصل",
+          "placeholder" : "ادخل رقم الهااتف",
+          "error" : "الرجاء إدخال رقم هاتف صالح"
+        },
+        "message" : {
+          "label" : "موضوع الرسالة",
+          "placeholder" : "أدخل موضوع الرسالة",
+          "error" : "الرجاء إدخال رسالتك"
+        },
+        "submit" : "ارسال"
+     
+    }
+  }
+  
