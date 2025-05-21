@@ -40,7 +40,7 @@ export default function SliderProjects() {
         {projects.map((project : ProjectType) => {
             if(project.show === true) {
                 return (
-                    <SwiperSlide className="grid grid-col-2 gap-6">
+                    <SwiperSlide className="grid grid-col-2 gap-6" key={project.id}>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div className="flex flex-col gap-4">
                             <h3 className="text-[22px] font-[700] text-primary">Latest Works</h3>
